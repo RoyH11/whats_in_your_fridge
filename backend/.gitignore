@@ -1,0 +1,22 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.env/
+venv/
+*.venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore IDE config files
+.vscode/
+.idea/
+
+# Ignore image uploads (if storing locally)
+uploads/
