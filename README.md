@@ -3,3 +3,5 @@ A recipe generator. Take a photo of your groceries and the app will take care of
 Under construction.
 
 Check out the WiKi [here](https://github.com/RoyH11/whats_in_your_fridge/wiki)
+
+new pc test
